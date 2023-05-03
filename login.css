@@ -1,0 +1,19 @@
+*{
+    list-style: none;
+    margin: none;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+
+}
+
+.form{
+    width: 22rem;
+    height: 26rem;
+    background-color:white;
+
+}
