@@ -29,7 +29,7 @@ body{
 
 }
 .btn{
-    background-color: red;
+    background-color:#eb7371;
     color:white;
     border: none;
     width: 6rem;
@@ -46,17 +46,15 @@ body{
 
 
 .navbar .nav-link .home{
-   color: red;
+   color: #eb7371;
 }
-.navbar .nav-link .home:hover{
-    color: purple;
-}
+
 
 .navbar .logo {
     font-size: 1.5rem;
     font-family: 'Fraunces', serif;
     font-weight: bold;
-    color: rgba(255, 0, 0, 0.705);
+    color: #eb7371;
 }
 .meda{
     color: black;
