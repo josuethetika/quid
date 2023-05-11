@@ -56,14 +56,15 @@ body{
     font-weight: bold;
     color: #eb7371
 }
-.meda{
-    color:#3c00a0;
+.logo,.meda{
+    color:black;
+    opacity: 0.
 }
 
 
 
 .navbar .nav-link ul{
-    display: flex;
+    display: flex;  
 }
 
 
@@ -73,6 +74,7 @@ body{
     color: black;
     font-weight: bold;
     transition: all ease-in-out 250ms;   
+    opacity: 0.6;
 }
 
 .navbar .nav-link ul li a::after{
@@ -98,5 +100,6 @@ main.text{
 }
 .content p{
 margin-bottom: 120px;
+width: 100%;
  
 }
