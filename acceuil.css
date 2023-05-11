@@ -57,7 +57,7 @@ body{
     color: #eb7371
 }
 .meda{
-    color: rgba(128, 0, 128, 0.527);
+    color:#3c00a0;
 }
 
 
@@ -97,8 +97,6 @@ main.text{
    
 }
 .content p{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
+margin-bottom: 120px;
+ 
 }
