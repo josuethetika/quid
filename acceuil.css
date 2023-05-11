@@ -5,7 +5,12 @@
 }
 .navbar{
     margin-left:60px;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
  
 }
-.
+.navlinks, ul{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr ;
+}
