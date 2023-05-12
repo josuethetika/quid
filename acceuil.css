@@ -37,6 +37,11 @@ header{
     color:white;
 }
 .content{
-    margin-top:100px;
+    margin:100px 0 0 130px;
+    
+}
+h1{
+    font-family:'Comme', sans-serif; ;
+    font-size: 30px;
     
 }
