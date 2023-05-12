@@ -1,31 +1,20 @@
 *{
     text-decoration: none;
     list-style: none;
-
 }
-
 .navbar{
-    margin-left:60px;
     display: flex;
-    grid-template-columns: 1fr 1fr;
     align-items: center;
-    text-align:cente;
+    margin: 0 30px 0 50px;
 }
-
-.navlinks, ul{
-    display:flex;
-    justify-content: space-between;
-    padding-left:180px;
+.navlinks{
+    margin-left:300px;
    
-}
 
-.navlinks ul li {
-    margin: 0 50px 0 50px;
-    color: white;
 }
-.logo{
-    color: white;
+.navlinks ul{
+    display: flex;
 }
-.navlinks ul li a{
-    color: white;
+.navlinks ul li{
+    margin: 0 30px 0 30px;
 }
