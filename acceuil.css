@@ -3,22 +3,29 @@
     list-style: none;
 
 }
+
 .navbar{
     margin-left:60px;
-    display: grid;
+    display: flex;
     grid-template-columns: 1fr 1fr;
     align-items: center;
     text-align:cente;
-
- 
 }
+
 .navlinks, ul{
     display:flex;
     justify-content: space-between;
-    margin-right: 30px;
+    padding-left:180px;
    
 }
 
 .navlinks ul li {
     margin: 0 50px 0 50px;
+    color: white;
+}
+.logo{
+    color: white;
+}
+.navlinks ul li a{
+    color: white;
 }
